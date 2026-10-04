@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 -->
-🎓 **Aspiring Data Analyst | Budding Software Engineer | IT Enthusiast**  
+🎓 **Aspiring Big Data Engineer | Budding Software Engineer | IT Enthusiast**  
 
 Welcome to my GitHub profile! I love exploring technology and building exciting projects that make life easier. From web design to backend development, I enjoy the creative process of solving problems through code.  
 
