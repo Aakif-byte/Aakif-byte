@@ -78,10 +78,7 @@ My goal is to grow as an **AI / Data Engineer and Software Developer**, contribu
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
-### 🌐 **Web Development**  
-- MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- HTML5, CSS3, JavaScript  
-- Figma for UI/UX Design 🎨
+
 - ### Tools I Use
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
